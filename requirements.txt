@@ -8,6 +8,7 @@ anyio==4.9.0
 assemblyai==0.41.5
 asyncpg==0.30.0
 attrs==25.3.0
+
 audioop-lts==0.2.1
 audioread==3.0.1
 beautifulsoup4==4.13.4
